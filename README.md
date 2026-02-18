@@ -153,12 +153,12 @@ void loop() {
 
 ---
 
-## ชิ้นงานจริงและแผนผังวงจร
     
-รูปถ่ายชิ้นงานจริง
+## รูปถ่ายชิ้นงานจริง
 
-![Smart Medicine Box](project-photo-1.jpg)
-![Smart Medicine Box](project-photo-2.jpg)
+![Smart Medicine Box](images/project-photo-1.jpg)
+![Smart Medicine Box](images/project-photo-2.jpg)
+
 
 
 คำอธิบาย: กล่องยาอัจฉริยะที่ติดตั้งจอ LCD ด้านหน้า พร้อมปุ่มควบคุม
